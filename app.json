@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Little Lemon",
+    "slug": "little-lemon-capstone",
+    "scheme": "littlelemon",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#FDFDF9",
+    "assetBundlePatterns": ["assets/**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mrbekazz.littlelemon"
+    },
+    "android": {
+      "package": "com.mrbekazz.littlelemon",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#495E57"
+      }
+    },
+    "icon": "./assets/icon.png",
+    "extra": {"project": "Meta iOS Developer Capstone"}
+  }
+}

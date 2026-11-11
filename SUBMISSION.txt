@@ -1,0 +1,11 @@
+Project Title:
+Little Lemon iOS Developer Capstone
+
+URL:
+Publish the contents of this ZIP to your NEW PUBLIC GitHub repository and paste its real repository URL here. Do not submit a made-up URL.
+
+Wireframe:
+design/wireframe-home.jpg
+
+Instructions:
+See README.md for setup and the exact peer-review tests.
